@@ -1,0 +1,19 @@
+.mainDiv{
+    text-align: center;
+    background-color: blue;
+    height: 300px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 40px;
+    border-radius: 5px;
+    background-image: url("light-blue-seamless3.jpg");
+    vertical-align: top;
+    display: inline-block;
+    font-family: "sharp-sans",Montserrat,Verdana,sans-serif
+}
+.innerDiv{
+    vertical-align: bottom;
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
